@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IBMHack</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_wild_fire">WildFire</string>
+    <string name="title_activity_earthquakes">Earthquakes</string>
+    <string name="title_activity_floods">Floods</string>
+    <string name="title_activity_hurricanes">Hurricanes</string>
+    <string name="username">5faae64d-1bea-457d-8de5-c39161e05710</string>
+    <string name="password">LCHevSD1ghOi</string>
+    <string name="workspace">f39fee13-ae5a-46ee-8ddd-d096336b121b</string>
+    <string name="title_activity_watson">Watson</string>
+</resources>
